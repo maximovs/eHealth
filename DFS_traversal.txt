@@ -1,0 +1,13 @@
+A Depth First Tree Traversal is a way of traversing a tree. In this kind of algorithms, nodes are not visited level by level but from top to bottom and then back again.
+
+There are several ways of visiting nodes in this kind of algorithms, for example, inorder, preorder or posorder.
+
+Inorder: first visit my left branch, then myself, then my right branch.
+
+preorder: first visit myself, then my left branch, then my right branch.
+
+posorder: first visit my left branch, then my right branch, then myself.
+
+
+
+It is the right way to traverse a BST to search for a value.
